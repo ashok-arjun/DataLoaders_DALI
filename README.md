@@ -1,3 +1,7 @@
+# Fork notes
+
+Forked for DALI implementation reference
+
 # PyTorch DataLoaders with DALI
 
 PyTorch DataLoaders implemented with [nvidia-dali](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html), we've implemented **CIFAR-10** and **ImageNet** dataloaders, more dataloaders will be added in the future.
