@@ -1,6 +1,6 @@
 # Fork notes
 
-Forked for DALI implementation reference
+Forked for DALI implementation reference ([Arjun Ashok](https://github.com/ashok-arjun/))
 
 # PyTorch DataLoaders with DALI
 
